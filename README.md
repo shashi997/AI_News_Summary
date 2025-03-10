@@ -1,0 +1,2 @@
+# AI_News_Summary
+AI News Summary web app solves the Information Overload, Bias in news, Personalized and Easy to Understand new by gathering News from Multiple Sources and able to get the Key Insights Quickly 
